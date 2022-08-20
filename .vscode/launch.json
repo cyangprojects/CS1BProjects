@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch KochSnowFlake",
+            "request": "launch",
+            "mainClass": "KochSnowFlake",
+            "projectName": "CS1BProjects_c5e18298",
+            "vmArgs": "--module-path \"C:/CS1A/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls "
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
