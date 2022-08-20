@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MatrixCalculator",
+            "request": "launch",
+            "mainClass": "MatrixCalculator",
+            "projectName": "CS1BProjects_c5e18298"
+        },
+        {
+            "type": "java",
             "name": "Launch KochSnowFlake",
             "request": "launch",
             "mainClass": "KochSnowFlake",
