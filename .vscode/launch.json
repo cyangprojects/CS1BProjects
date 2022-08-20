@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SortingComplexities",
+            "request": "launch",
+            "mainClass": "SortingComplexities",
+            "projectName": "CS1BProjects_c5e18298"
+        },
+        {
+            "type": "java",
             "name": "Launch TwentyFourGame",
             "request": "launch",
             "mainClass": "TwentyFourGame",
